@@ -1,0 +1,36 @@
+/*STYLES*/
+
+* {
+    background-color: rgb(252, 239, 226);
+    font-family: sans-serif;
+}
+
+h1 {
+    color:rgb(78, 78, 56);
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: hotpink;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+  }
+
+/*Recipe page */
+
+h3 {
+    color:aqua;
+}
